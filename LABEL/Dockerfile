@@ -1,3 +1,4 @@
 FROM almalinux:9
 LABEL course="docker" \
-      trainer="Sushma"
+      trainer="Sushma" \
+      author="Sushmapro"
